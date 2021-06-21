@@ -1,0 +1,12 @@
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/bin/Debug/netcoreapp3.1/MoiveTime.deps.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/bin/Debug/netcoreapp3.1/MoiveTime.runtimeconfig.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/bin/Debug/netcoreapp3.1/MoiveTime.runtimeconfig.dev.json
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/bin/Debug/netcoreapp3.1/MoiveTime.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/bin/Debug/netcoreapp3.1/MoiveTime.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.csprojAssemblyReference.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.AssemblyInfoInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.AssemblyInfo.cs
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.csproj.CoreCompileInputs.cache
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.dll
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.pdb
+/Users/hassan/OneDrive - Queensland University of Technology/Documents/IFN556/MoiveTime/obj/Debug/netcoreapp3.1/MoiveTime.genruntimeconfig.cache
